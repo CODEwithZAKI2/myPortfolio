@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2014 - 2018",
+    institution: "Mogadishu University",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Master Degree in Electronics and Information",
+    duration: "2020 - 2023",
+    institution: "Zhejiang Normal University",
   },
   {
     id: 3,
     title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    duration: "2010 - 2014",
+    institution: "Al-sha'ab High School",
   }
 ]
