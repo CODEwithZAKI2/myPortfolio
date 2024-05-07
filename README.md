@@ -3,11 +3,11 @@
 </p>
 
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/CODEwithZAKI2/myPortfolio)
 
 ---
 
-# Developer Portfolio
+# My Portfolio
 
 ### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
@@ -17,7 +17,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://hireomar.netlify.app/).
 
 ---
 
@@ -68,9 +68,9 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/CODEwithZAKI2/myPortfolio.git
 
-cd developer-portfolio
+cd myPortfolio
 ```
 
 ### Install packages from the root directory
@@ -109,31 +109,31 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/CODEwithZAKI2/myPortfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  name: "OMAR MOHAMUD MOHAMED",
+  profile: '/profile.jpg',
+  designation: "Software Developer",
+  description: "My name is OMAR MOHAMUD. Accomplished Software Engineer and Educator with a  Master’s in Electronics and Information Technology, skilled in leading tech-driven initiatives. With over three years of  experience, I am adept at enhancing organizational efficiency and integrating innovative solutions. Proficient in Mandarin, I effectively collaborate in diverse settings, driving both individual and team success. Committed to continuous growth, I aim to meet and exceed business and educational objectives.",
+  email: 'cumaraani1887@gmail.com',
+  phone: '+252616356021',
+  address: 'Mogadishu, Somalia',
+  github: 'https://github.com/CODEwithZAKI2',
+  facebook: 'https://www.facebook.com/',
+  linkedIn: 'https://www.linkedin.com/',
+  twitter: 'https://twitter.com/',
+  stackOverflow: 'https://stackoverflow.com/',
+  leetcode: "https://leetcode.com/",
+  devUsername: "codewithzaki2",
+  resume: "https://live.taabotech.com/MainCVs2.pdf"
 };
 ```
 
-`devUsername` Used for fetching blog from `dev.to`.
+
 
 ---
 
